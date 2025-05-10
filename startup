@@ -1,0 +1,20 @@
+SET junction-1::east::vehicle_count 0
+SET junction-1::north::vehicle_count 0
+SET junction-1::south::vehicle_count 0
+SET junction-1::west::vehicle_count 0
+
+SET junction-2::east::vehicle_count 0
+SET junction-2::north::vehicle_count 0
+SET junction-2::south::vehicle_count 0
+SET junction-2::west::vehicle_count 0
+
+SET junction-1::east::light 0
+SET junction-1::north::light 0
+SET junction-1::south::light 0
+SET junction-1::west::light 0
+
+SET junction-2::east::light 0
+SET junction-2::north::light 0
+SET junction-2::south::light 0
+SET junction-2::west::light 0
+

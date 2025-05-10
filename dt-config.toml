@@ -1,0 +1,11 @@
+[scripts]
+startup = "startup"
+
+[[node]]
+enabled = true
+name = "Y0,Y1"
+socket = '/tmp/typ-dt.sock'
+
+[[node]]
+name = "simulator"
+socket = "/tmp/typ-simulator.sock"

@@ -1,0 +1,18 @@
+[scripts]
+startup = "startup"
+
+[[node]]
+enabled = true
+name = "Y0"
+serial = '/dev/ttyACM0'
+baud = 115200
+
+[[node]]
+enabled = true
+name = "Y1"
+serial = '/dev/ttyACM1'
+baud = 115200
+
+[[node]]
+name = "simulator"
+socket = "/tmp/typ-simulator.sock"
