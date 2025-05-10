@@ -4,8 +4,6 @@ The world state server: the backbone of a Digital or Semi-Digital Twin.
 
 ## Usage
 
-Before running this script, ensure the [world state server](broken link) is running.
-
 ```sh
 poetry install
 poetry shell
